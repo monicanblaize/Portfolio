@@ -1,0 +1,21 @@
+body {
+    background: black;
+    color: fuchsia;
+    margin:100px;
+}
+
+a:visited {
+    color:chartreuse;
+}
+
+a {
+    color:fuchsia;
+}
+
+.navLinks {
+    display: inline;
+}
+
+#topNav {
+    text-align: right;
+}
